@@ -99,7 +99,7 @@ font-size: 34px;
 }
 
 table {
-border: 0px solid grey; font-size: 40px; width: 300px; text-align: center; border-spacing: 30px;
+border: 0px solid grey; font-size: 40px; width: auto; text-align: center; border-spacing: 30px;
 }
 
 main p {
